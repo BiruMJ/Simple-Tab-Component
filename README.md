@@ -1,6 +1,7 @@
 # Simple-Tab-Component
 🧩 A simple and clean tab component built with HTML, CSS, and JavaScript — switches tab content dynamically without any libraries.
-Project Link: https://github.com/BiruMJ/Simple-Tab-Component
+This project is inspired by roadmap.sh.
+Project Link: [https://github.com/BiruMJ/Simple-Tab-Component](https://roadmap.sh/projects/simple-tabs)
 
 🔍 Project Overview
 This project demonstrates how to build a tabbed interface where each tab shows unique content. When a user clicks on a tab:
